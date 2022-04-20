@@ -1,4 +1,4 @@
-# banda_umnikov
+# Test_beer_app
 
 ## Project setup
 ```
